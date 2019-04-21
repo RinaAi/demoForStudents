@@ -1,4 +1,6 @@
-Как запустить у себя постгрес без установки
+Postgres можно установить https://www.postgresql.org/download/
+
+Либо запустить у себя без установки через Docker
 
 `> docker run -d -p 5432:5432 postgres`
 
